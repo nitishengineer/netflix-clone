@@ -4,6 +4,8 @@ A full-stack **Netflix clone** built with React, Firebase and the TMDB API. Sign
 
 🔗 **Live Demo:** https://netflix-clone-zeta-liard-46.vercel.app
 
+![Netflix Clone screenshot](Screenshot.png)
+
 ## ✨ Features
 
 - 🔐 **Real user authentication** — sign up / sign in / sign out with Firebase Email-Password auth
